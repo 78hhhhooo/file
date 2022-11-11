@@ -1,0 +1,40 @@
+      #dlbox {
+         margin:auto;
+         padding:4px;
+         background:#F6F6F6;
+         clear:both;
+         border:1px solid #ccc;
+         position: relative;
+         height:auto;
+         width:95%;
+         max-width:460px;
+         }
+         #dlbox h4 {
+         font-size:20px;
+         font-family: sans-serif;
+         padding:10px;
+         text-align:center;
+         height:auto;
+         margin: auto;
+         }
+a{color:#1087ff;
+text-decoration: none;
+		 }
+         .button {
+         background-color: #1087ff;
+         height:auto;
+         width:90%;
+         color: #fff;
+   
+         padding: 12px;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 16px;
+         cursor: pointer;
+        border: 2px solid #1087ff;
+         }
+         .button:hover {
+         background-color: #fff;
+         color: #000;
+         border: 2px solid #1087ff;
+         }
